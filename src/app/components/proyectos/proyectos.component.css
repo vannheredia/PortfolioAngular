@@ -1,0 +1,44 @@
+#separador{
+    background-color: black;
+    height:5px;
+}
+
+#proyectosRealizados{
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+#proyectosRealizados h1{
+    margin-bottom: 30px;
+}
+
+.unProyecto{
+    border-style:double;
+    margin-left: 5%;
+    box-shadow: 10px 10px 30px black;
+
+    
+}
+
+.unProyecto p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.unProyecto img{
+    
+    display: block;
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.imagenesProyectos{
+    width: 200px;
+    height: 200px;
+    border-color: black;
+}
+

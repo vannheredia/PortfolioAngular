@@ -2,15 +2,12 @@ import { Component } from '@angular/core';
 import { faCoffee } from '@fortawesome/free-solid-svg-icons';
 import { faGithub, faHtml5,faInstagram, faAngular, faCss3, faJs, faJava } from '@fortawesome/free-brands-svg-icons';
 
-
-
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  selector: 'app-hys',
+  templateUrl: './hys.component.html',
+  styleUrls: ['./hys.component.css']
 })
-export class AppComponent {
-  title = 'ArgentinaPrograma2022';
+export class HysComponent {
   faCoffee = faCoffee;
   faGithub = faGithub;
   faHtml5 = faHtml5;
@@ -20,5 +17,4 @@ export class AppComponent {
   faJs = faJs;
   faJava = faJava;
 
-  
 }

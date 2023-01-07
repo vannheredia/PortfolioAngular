@@ -1,0 +1,16 @@
+#explab{
+    /*/background-color: #0c5581 ;*/
+    background-color: white;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.alineado{
+    display: inline;
+   
+}
+
+#separador{
+    background-color: black;
+    height:5px;
+}
