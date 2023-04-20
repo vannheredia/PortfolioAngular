@@ -50,6 +50,13 @@ div{
         border-color: antiquewhite;
         box-shadow: 3px 3px 3px whitesmoke;
         left: 37%;
-        top: 400px;
+        top: 230px;
     }
+
+    #divAcercaDeMi{
+        margin-top:150px;
+    }
+
+  
 }
+
